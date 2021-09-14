@@ -1,0 +1,19 @@
+html, body, *, strong {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+a {
+    color: #2C4D86;
+    text-decoration: underline;
+}
+
+h4 {
+    margin-top: 40px; 
+}
+
+.hero-header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
